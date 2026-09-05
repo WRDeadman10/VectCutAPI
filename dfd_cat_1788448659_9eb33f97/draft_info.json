@@ -1,0 +1,1570 @@
+{
+  "canvas_config": {
+    "height": 1920,
+    "ratio": "9:16",
+    "width": 1080
+  },
+  "color_space": 0,
+  "config": {
+    "adjust_max_index": 1,
+    "attachment_info": [],
+    "combination_max_index": 1,
+    "export_range": null,
+    "extract_audio_last_index": 1,
+    "lyrics_recognition_id": "",
+    "lyrics_sync": true,
+    "lyrics_taskinfo": [],
+    "maintrack_adsorb": true,
+    "material_save_mode": 0,
+    "multi_language_current": "none",
+    "multi_language_list": [],
+    "multi_language_main": "none",
+    "multi_language_mode": "none",
+    "original_sound_last_index": 1,
+    "record_audio_last_index": 1,
+    "sticker_max_index": 1,
+    "subtitle_keywords_config": null,
+    "subtitle_recognition_id": "",
+    "subtitle_sync": true,
+    "subtitle_taskinfo": [],
+    "system_font_list": [],
+    "video_mute": false,
+    "zoom_info_params": null
+  },
+  "cover": null,
+  "create_time": 0,
+  "duration": 25000000,
+  "extra_info": null,
+  "fps": 30.0,
+  "free_render_index_mode_on": false,
+  "group_container": null,
+  "id": "91E08AC5-22FB-47e2-9AA0-7DC300FAEA2B",
+  "keyframe_graph_list": [],
+  "keyframes": {
+    "adjusts": [],
+    "audios": [],
+    "effects": [],
+    "filters": [],
+    "handwrites": [],
+    "stickers": [],
+    "texts": [],
+    "videos": []
+  },
+  "last_modified_platform": {
+    "app_id": 359289,
+    "app_source": "cc",
+    "app_version": "6.5.0",
+    "device_id": "c4ca4238a0b923820dcc509a6f75849b",
+    "hard_disk_id": "307563e0192a94465c0e927fbc482942",
+    "mac_address": "c3371f2d4fb02791c067ce44d8fb4ed5",
+    "os": "mac",
+    "os_version": "15.5"
+  },
+  "materials": {
+    "ai_translates": [],
+    "audio_balances": [],
+    "audio_effects": [],
+    "audio_fades": [
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 500000,
+        "id": "59ff4c30c99f4e0eae4ec9b5c962e982",
+        "type": "audio_fade"
+      },
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 0,
+        "id": "cd97da41d6c54580a7dfbfe4ce13f70a",
+        "type": "audio_fade"
+      },
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 0,
+        "id": "6378e8d4e9c7496faf9569080c4b02ac",
+        "type": "audio_fade"
+      },
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 500000,
+        "id": "262eb8cb767149799b637bbfb680e6c1",
+        "type": "audio_fade"
+      },
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 0,
+        "id": "e8d758c17671436191acbfecf3595ee0",
+        "type": "audio_fade"
+      },
+      {
+        "fade_in_duration": 0,
+        "fade_out_duration": 0,
+        "id": "a1e86de25a5242109b69178838cdda5c",
+        "type": "audio_fade"
+      }
+    ],
+    "audio_track_indexes": [],
+    "audios": [
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 25000249,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "d5fd451f54e932dab6bacc79e02f0ba0",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "d5fd451f54e932dab6bacc79e02f0ba0",
+        "music_id": "d5fd451f54e932dab6bacc79e02f0ba0",
+        "name": "audio_e48a78151a56d8c8.mp3",
+        "path": "",
+        "remote_url": "C:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\music_processed.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 23200000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "76d4d2062d28410c9425c52a952ede67",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "76d4d2062d28410c9425c52a952ede67",
+        "music_id": "76d4d2062d28410c9425c52a952ede67",
+        "name": "voiceover_hindi_processed.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\voiceover_hindi_processed.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\voiceover_hindi_processed.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 1690000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "ee1a5629f2d64f53a1817adb9e69e7fa",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "ee1a5629f2d64f53a1817adb9e69e7fa",
+        "music_id": "ee1a5629f2d64f53a1817adb9e69e7fa",
+        "name": "sfx_chime.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_chime.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_chime.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 1100000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "c7ad8ca7a2aa4e6dbd7cfd50142b28ad",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "c7ad8ca7a2aa4e6dbd7cfd50142b28ad",
+        "music_id": "c7ad8ca7a2aa4e6dbd7cfd50142b28ad",
+        "name": "sfx_whoosh.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_whoosh.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_whoosh.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 23200000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "5e6fc219c04a45e186a1e964c9d03a4f",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "5e6fc219c04a45e186a1e964c9d03a4f",
+        "music_id": "5e6fc219c04a45e186a1e964c9d03a4f",
+        "name": "voiceover_hindi_processed.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\voiceover_hindi_processed.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\voiceover_hindi_processed.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 1690000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "2072cb0172ec4c0aa2298446d89ec531",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "2072cb0172ec4c0aa2298446d89ec531",
+        "music_id": "2072cb0172ec4c0aa2298446d89ec531",
+        "name": "sfx_chime.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_chime.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_chime.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 1,
+        "copyright_limit_type": "none",
+        "duration": 1100000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "ba62f8aaf92741518fad5058a90e5eb8",
+        "intensifies_path": "",
+        "is_ai_clone_tone": false,
+        "is_text_edit_overdub": false,
+        "is_ugc": false,
+        "local_material_id": "ba62f8aaf92741518fad5058a90e5eb8",
+        "music_id": "ba62f8aaf92741518fad5058a90e5eb8",
+        "name": "sfx_whoosh.mp3",
+        "path": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_whoosh.mp3",
+        "remote_url": "c:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\sfx_whoosh.mp3",
+        "query": "",
+        "request_id": "",
+        "resource_id": "",
+        "search_id": "",
+        "source_from": "",
+        "source_platform": 0,
+        "team_id": "",
+        "text_id": "",
+        "tone_category_id": "",
+        "tone_category_name": "",
+        "tone_effect_id": "",
+        "tone_effect_name": "",
+        "tone_platform": "",
+        "tone_second_category_id": "",
+        "tone_second_category_name": "",
+        "tone_speaker": "",
+        "tone_type": "",
+        "type": "extract_music",
+        "video_id": "",
+        "wave_points": []
+      }
+    ],
+    "beats": [],
+    "canvases": [],
+    "chromas": [],
+    "color_curves": [],
+    "digital_humans": [],
+    "drafts": [],
+    "effects": [],
+    "flowers": [],
+    "green_screens": [],
+    "handwrites": [],
+    "hsl": [],
+    "images": [],
+    "log_color_wheels": [],
+    "loudnesses": [],
+    "manual_deformations": [],
+    "material_animations": [],
+    "material_colors": [],
+    "multi_language_refs": [],
+    "placeholders": [],
+    "plugin_effects": [],
+    "primary_color_wheels": [],
+    "realtime_denoises": [],
+    "shapes": [],
+    "smart_crops": [],
+    "smart_relights": [],
+    "sound_channel_mappings": [],
+    "speeds": [
+      {
+        "curve_speed": null,
+        "id": "8565f8e01e674a3bb298f53dde114289",
+        "mode": 0,
+        "speed": 1,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "08b63655216c49e28a0af96ab00c10ff",
+        "mode": 0,
+        "speed": 1,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "3648c2d7dac144fb96b4b3822b65fbca",
+        "mode": 0,
+        "speed": 1,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "5b260143f9064abd9bb6c91dfb9a73e8",
+        "mode": 0,
+        "speed": 1,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "1e01fd7ae84b4b039d4057bd5da554d7",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      }
+    ],
+    "stickers": [],
+    "tail_leaders": [],
+    "text_templates": [],
+    "texts": [
+      {
+        "id": "5387e5f8db8c4bf6bbe24f3e4381e66f",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 0.8431372549019608, 0.0]}}}, \"range\": [0, 26], \"size\": 56, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [], \"shadows\": [{\"diffuse\": 0.024999999999999998, \"angle\": -45.0, \"content\": {\"solid\": {\"color\": [0.0, 0.0, 0.0]}}, \"distance\": 5.0, \"alpha\": 0.9}], \"font\": {\"id\": \"7290445778273702455\", \"path\": \"C:/文轩体.ttf\"}}], \"text\": \"Hema (हेम)\\nGold • Radiance\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 55,
+        "type": "text",
+        "fixed_width": -1,
+        "fixed_height": -1,
+        "font_category_id": "",
+        "font_category_name": "",
+        "font_id": "",
+        "font_name": "",
+        "font_path": "",
+        "font_resource_id": "",
+        "font_size": 15.0,
+        "font_source_platform": 0,
+        "font_team_id": "",
+        "font_title": "none",
+        "font_url": "",
+        "fonts": [],
+        "background_style": 2,
+        "background_color": "#000000",
+        "background_alpha": 0.8,
+        "background_round_radius": 0.0,
+        "background_height": 0.14,
+        "background_width": 0.14,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "has_shadow": true,
+        "shadow_alpha": 0.9,
+        "shadow_angle": -45.0,
+        "shadow_color": "#000000",
+        "shadow_distance": 5.0,
+        "shadow_smoothing": 0.44999999999999996
+      },
+      {
+        "id": "d5c07a139ebb439e92467a85d5a9451e",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 0.9607843137254902, 0.8823529411764706]}}}, \"range\": [0, 48], \"size\": 52, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [], \"shadows\": [{\"diffuse\": 0.024999999999999998, \"angle\": -45.0, \"content\": {\"solid\": {\"color\": [0.0, 0.0, 0.0]}}, \"distance\": 5.0, \"alpha\": 0.9}], \"font\": {\"id\": \"7290445778273702455\", \"path\": \"C:/文轩体.ttf\"}}], \"text\": \"Anshi (अंशी)\\nA precious part of • A gentle touch\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 55,
+        "type": "text",
+        "fixed_width": -1,
+        "fixed_height": -1,
+        "font_category_id": "",
+        "font_category_name": "",
+        "font_id": "",
+        "font_name": "",
+        "font_path": "",
+        "font_resource_id": "",
+        "font_size": 15.0,
+        "font_source_platform": 0,
+        "font_team_id": "",
+        "font_title": "none",
+        "font_url": "",
+        "fonts": [],
+        "background_style": 2,
+        "background_color": "#000000",
+        "background_alpha": 0.8,
+        "background_round_radius": 0.0,
+        "background_height": 0.14,
+        "background_width": 0.14,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "has_shadow": true,
+        "shadow_alpha": 0.9,
+        "shadow_angle": -45.0,
+        "shadow_color": "#000000",
+        "shadow_distance": 5.0,
+        "shadow_smoothing": 0.44999999999999996
+      },
+      {
+        "id": "95d2ab362d5240428f00ab9a5e7c110c",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 0.8431372549019608, 0.0]}}}, \"range\": [0, 23], \"size\": 60, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [], \"shadows\": [{\"diffuse\": 0.024999999999999998, \"angle\": -45.0, \"content\": {\"solid\": {\"color\": [0.0, 0.0, 0.0]}}, \"distance\": 5.0, \"alpha\": 0.9}], \"font\": {\"id\": \"7290445778273702455\", \"path\": \"C:/文轩体.ttf\"}}], \"text\": \"HEMANSHI\\nA Part of Gold\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 55,
+        "type": "text",
+        "fixed_width": -1,
+        "fixed_height": -1,
+        "font_category_id": "",
+        "font_category_name": "",
+        "font_id": "",
+        "font_name": "",
+        "font_path": "",
+        "font_resource_id": "",
+        "font_size": 15.0,
+        "font_source_platform": 0,
+        "font_team_id": "",
+        "font_title": "none",
+        "font_url": "",
+        "fonts": [],
+        "background_style": 2,
+        "background_color": "#000000",
+        "background_alpha": 0.8,
+        "background_round_radius": 0.0,
+        "background_height": 0.14,
+        "background_width": 0.14,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "has_shadow": true,
+        "shadow_alpha": 0.9,
+        "shadow_angle": -45.0,
+        "shadow_color": "#000000",
+        "shadow_distance": 5.0,
+        "shadow_smoothing": 0.44999999999999996
+      },
+      {
+        "id": "09a4ccec687c4ea0913244e2ca6da950",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1.0, 1.0, 1.0]}}}, \"range\": [0, 42], \"size\": 64, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [], \"shadows\": [{\"diffuse\": 0.024999999999999998, \"angle\": -45.0, \"content\": {\"solid\": {\"color\": [0.8313725490196079, 0.6862745098039216, 0.21568627450980393]}}, \"distance\": 5.0, \"alpha\": 0.9}], \"font\": {\"id\": \"7290445778273702455\", \"path\": \"C:/文轩体.ttf\"}}], \"text\": \"HEMANSHI\\nहेमांशी\\nPrecious • Radiant • Pure\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 55,
+        "type": "text",
+        "fixed_width": -1,
+        "fixed_height": -1,
+        "font_category_id": "",
+        "font_category_name": "",
+        "font_id": "",
+        "font_name": "",
+        "font_path": "",
+        "font_resource_id": "",
+        "font_size": 15.0,
+        "font_source_platform": 0,
+        "font_team_id": "",
+        "font_title": "none",
+        "font_url": "",
+        "fonts": [],
+        "background_style": 2,
+        "background_color": "#000000",
+        "background_alpha": 0.8,
+        "background_round_radius": 0.0,
+        "background_height": 0.14,
+        "background_width": 0.14,
+        "background_horizontal_offset": 0.0,
+        "background_vertical_offset": 0.0,
+        "has_shadow": true,
+        "shadow_alpha": 0.9,
+        "shadow_angle": -45.0,
+        "shadow_color": "#D4AF37",
+        "shadow_distance": 5.0,
+        "shadow_smoothing": 0.44999999999999996
+      }
+    ],
+    "time_marks": [],
+    "transitions": [
+      {
+        "category_id": "",
+        "category_name": "",
+        "duration": 600000,
+        "effect_id": "392FD26E-A514-4d0f-8950-EA4A20CB407C",
+        "id": "59c8c061b3424c049f2139b89baf0c00",
+        "is_overlap": false,
+        "name": "Dissolve",
+        "platform": "all",
+        "resource_id": "6724846004274729480",
+        "type": "transition"
+      },
+      {
+        "category_id": "",
+        "category_name": "",
+        "duration": 700000,
+        "effect_id": "392FD26E-A514-4d0f-8950-EA4A20CB407C",
+        "id": "90f5615cc40848cd99d89c71fe7d3744",
+        "is_overlap": false,
+        "name": "Dissolve",
+        "platform": "all",
+        "resource_id": "6724846004274729480",
+        "type": "transition"
+      },
+      {
+        "category_id": "",
+        "category_name": "",
+        "duration": 800000,
+        "effect_id": "392FD26E-A514-4d0f-8950-EA4A20CB407C",
+        "id": "83fbe25afd1945fead4a7f750af9202d",
+        "is_overlap": false,
+        "name": "Dissolve",
+        "platform": "all",
+        "resource_id": "6724846004274729480",
+        "type": "transition"
+      }
+    ],
+    "video_effects": [],
+    "video_trackings": [],
+    "videos": [
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 6000000,
+        "height": 1920,
+        "id": "060e60f1f7b131fd87f0c56081b824d3",
+        "local_material_id": "",
+        "material_id": "060e60f1f7b131fd87f0c56081b824d3",
+        "material_name": "video_24637141e4c176d7.mp4",
+        "media_path": "",
+        "path": "",
+        "remote_url": "C:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\clip_1_hema.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 6000000,
+        "height": 1920,
+        "id": "9e4c5a3984d93f0abf6f2a1521e21cd0",
+        "local_material_id": "",
+        "material_id": "9e4c5a3984d93f0abf6f2a1521e21cd0",
+        "material_name": "video_1988a20c452741cd.mp4",
+        "media_path": "",
+        "path": "",
+        "remote_url": "C:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\clip_2_anshi.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 7000000,
+        "height": 1920,
+        "id": "03112450357b362a84dfbdab332ff0e5",
+        "local_material_id": "",
+        "material_id": "03112450357b362a84dfbdab332ff0e5",
+        "material_name": "video_79559f03ebfa9871.mp4",
+        "media_path": "",
+        "path": "",
+        "remote_url": "C:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\clip_3_hemanshi.mp4",
+        "type": "video",
+        "width": 1080
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 6000000,
+        "height": 1920,
+        "id": "f7f8db660f723e8aacb07364f5b66857",
+        "local_material_id": "",
+        "material_id": "f7f8db660f723e8aacb07364f5b66857",
+        "material_name": "video_a00c5a90c36502fb.mp4",
+        "media_path": "",
+        "path": "",
+        "remote_url": "C:\\Users\\Hemanshi Makwana\\OneDrive\\Documents\\new\\assets\\clip_4_resolution.mp4",
+        "type": "video",
+        "width": 1080
+      }
+    ],
+    "vocal_beautifys": [],
+    "vocal_separations": [],
+    "common_mask": []
+  },
+  "mutable_config": null,
+  "name": "",
+  "new_version": "110.0.0",
+  "relationships": [],
+  "render_index_track_mode_on": true,
+  "retouch_cover": null,
+  "source": "default",
+  "static_cover_image_path": "",
+  "time_marks": null,
+  "tracks": [
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "62b967c5d8a44c169c45c0fe555fc278",
+      "is_default_name": false,
+      "name": "video",
+      "segments": [],
+      "type": "video"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "8c254f471a4c46498fdc5972a1499668",
+      "is_default_name": false,
+      "name": "video_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "69b4f4d3b7024970a64ca124dd0d2b65",
+          "material_id": "060e60f1f7b131fd87f0c56081b824d3",
+          "target_timerange": {
+            "start": 0,
+            "duration": 6000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 6000000
+          },
+          "speed": 1,
+          "volume": 0,
+          "extra_material_refs": [
+            "8565f8e01e674a3bb298f53dde114289"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "053a27a59aa549e09be315b75743e17f",
+          "material_id": "9e4c5a3984d93f0abf6f2a1521e21cd0",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 6000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 6000000
+          },
+          "speed": 1,
+          "volume": 0,
+          "extra_material_refs": [
+            "08b63655216c49e28a0af96ab00c10ff",
+            "59c8c061b3424c049f2139b89baf0c00"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "8b14fa4d8ce44b84998894d9271b0593",
+          "material_id": "03112450357b362a84dfbdab332ff0e5",
+          "target_timerange": {
+            "start": 12000000,
+            "duration": 7000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 7000000
+          },
+          "speed": 1,
+          "volume": 0,
+          "extra_material_refs": [
+            "3648c2d7dac144fb96b4b3822b65fbca",
+            "90f5615cc40848cd99d89c71fe7d3744"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "0caf8632804f4c51b3c5b18e90979e66",
+          "material_id": "f7f8db660f723e8aacb07364f5b66857",
+          "target_timerange": {
+            "start": 19000000,
+            "duration": 6000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 6000000
+          },
+          "speed": 1,
+          "volume": 0,
+          "extra_material_refs": [
+            "5b260143f9064abd9bb6c91dfb9a73e8",
+            "83fbe25afd1945fead4a7f750af9202d"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        }
+      ],
+      "type": "video"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "85741a62a69346159fd6702a92ea0465",
+      "is_default_name": false,
+      "name": "audio_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "b079a2d080544ab488d43372109785c6",
+          "material_id": "d5fd451f54e932dab6bacc79e02f0ba0",
+          "target_timerange": {
+            "start": 0,
+            "duration": 25000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 25000000
+          },
+          "speed": 1.0,
+          "volume": 0.6,
+          "extra_material_refs": [
+            "1e01fd7ae84b4b039d4057bd5da554d7"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "94bd07016615414d856ce5727ae94a23",
+      "is_default_name": false,
+      "name": "text_main",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "9c35ce3b816a4e38baad3cf1b443dae8",
+          "material_id": "5387e5f8db8c4bf6bbe24f3e4381e66f",
+          "target_timerange": {
+            "start": 500000,
+            "duration": 5300000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "df533fb161914e2289375acdab63986e"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "99102ac8e66f44b9bcc59d75d1cd47ef",
+          "material_id": "d5c07a139ebb439e92467a85d5a9451e",
+          "target_timerange": {
+            "start": 6500000,
+            "duration": 5300000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "39e344054c5b4f878abf71e4ca713470"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "db464cf889394e4e9ff74500cc144ada",
+          "material_id": "95d2ab362d5240428f00ab9a5e7c110c",
+          "target_timerange": {
+            "start": 14000000,
+            "duration": 4800000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "6900687e40034c518172eb4424b1a81e"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0,
+              "y": 0.5
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "791ecf4bd923442fa8c4a0d1025e3ae1",
+          "material_id": "09a4ccec687c4ea0913244e2ca6da950",
+          "target_timerange": {
+            "start": 19500000,
+            "duration": 5300000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "93b43b0c6b9f4beaa40fcfc2acc403b7"
+          ],
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        }
+      ],
+      "type": "text"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "759f9442176048a39c466e6713c5a011",
+      "is_default_name": false,
+      "name": "audio_voiceover",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "3f419192dd6d43e7a8afc23ba0314be8",
+          "material_id": "76d4d2062d28410c9425c52a952ede67",
+          "target_timerange": {
+            "start": 1800000,
+            "duration": 23200000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 23200000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "59ff4c30c99f4e0eae4ec9b5c962e982"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "db50185c8df74e2b9d620838e6fdee7c",
+      "is_default_name": false,
+      "name": "audio_sfx_chime",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "188f8bc33ce94f88b2dbe7dafc09f833",
+          "material_id": "ee1a5629f2d64f53a1817adb9e69e7fa",
+          "target_timerange": {
+            "start": 500000,
+            "duration": 1690000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1690000
+          },
+          "speed": 1.0,
+          "volume": 0.5,
+          "extra_material_refs": [
+            "cd97da41d6c54580a7dfbfe4ce13f70a"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "b0418f2dd7d844a5ac82c0fb8dc178f4",
+      "is_default_name": false,
+      "name": "audio_sfx_whoosh",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "b057264d50af4747af6056c9048392f7",
+          "material_id": "c7ad8ca7a2aa4e6dbd7cfd50142b28ad",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 1100000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1100000
+          },
+          "speed": 1.0,
+          "volume": 0.45,
+          "extra_material_refs": [
+            "6378e8d4e9c7496faf9569080c4b02ac"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "95b85d1a7deb4beb923f492450f03182",
+      "is_default_name": false,
+      "name": "audio_voiceover",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "650970e01fc84daa866e58b873bc1810",
+          "material_id": "5e6fc219c04a45e186a1e964c9d03a4f",
+          "target_timerange": {
+            "start": 1800000,
+            "duration": 23200000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 23200000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "262eb8cb767149799b637bbfb680e6c1"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "3247cbb593fb4bffb8a49ee2508844a3",
+      "is_default_name": false,
+      "name": "audio_sfx_chime",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "5abb5ad6e39a49fdaa3462368c8ae9fa",
+          "material_id": "2072cb0172ec4c0aa2298446d89ec531",
+          "target_timerange": {
+            "start": 500000,
+            "duration": 1690000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1690000
+          },
+          "speed": 1.0,
+          "volume": 0.5,
+          "extra_material_refs": [
+            "e8d758c17671436191acbfecf3595ee0"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "3bfa8d98784b444d92dc3d289dd9097d",
+      "is_default_name": false,
+      "name": "audio_sfx_whoosh",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "df4b90acd86640a99d27d08585ab8f15",
+          "material_id": "ba62f8aaf92741518fad5058a90e5eb8",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 1100000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1100000
+          },
+          "speed": 1.0,
+          "volume": 0.45,
+          "extra_material_refs": [
+            "a1e86de25a5242109b69178838cdda5c"
+          ],
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    }
+  ],
+  "update_time": 0,
+  "version": 360000,
+  "platform": {
+    "app_id": 359289,
+    "app_source": "cc",
+    "app_version": "6.5.0",
+    "device_id": "c4ca4238a0b923820dcc509a6f75849b",
+    "hard_disk_id": "307563e0192a94465c0e927fbc482942",
+    "mac_address": "c3371f2d4fb02791c067ce44d8fb4ed5",
+    "os": "mac",
+    "os_version": "15.5"
+  }
+}
