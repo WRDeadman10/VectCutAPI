@@ -1236,6 +1236,7 @@ HTML_PREVIEW_TEMPLATE = """<!DOCTYPE html>
 """
 
 
+@preview_bp.route("/")
 @preview_bp.route("/preview")
 def preview_page():
     """Serves the full web live preview application."""
